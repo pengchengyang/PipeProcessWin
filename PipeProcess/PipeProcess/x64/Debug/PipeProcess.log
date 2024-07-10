@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Damon\Codes\PipeProcess\PipeProcess\main.cpp(7,56): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  PipeProcess.vcxproj -> C:\Damon\Codes\PipeProcess\x64\Debug\PipeProcess.exe
